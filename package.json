@@ -1,0 +1,22 @@
+{
+  "name": "voidbox",
+  "version": "1.0.0",
+  "description": "Simple stream service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebRTC",
+    "SocketIO"
+  ],
+  "author": "Nicholas Lai Jin Yung",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "7.28.0"
+  }
+}
